@@ -9,9 +9,6 @@ We present a comprehensive demonstration of our MMHT model to provide reviewers 
 1. Change dataset path at line 9 in 'pytracking/evaluation/local.py'.
 2. Run ``` python run_tracker_mmht.py ```. You can change test parameters in 'pytracking/parameter/fusion/mmht_para.py'. 
 
-##  Visualization
-We present the tracking performance of three models (PrDiMP-SNN, PrDiMP-ResNet18, and MMHT) on four samples extracted from the FE108 and COESOT datasets. The colors of these bounding boxes remain consistent with those showcased in Figure 3 and Figure 4. The ground truth is indicated by the red box.
-
 ## Citation
 Please cite our [paper](https://arxiv.org/abs/2405.17903) if you find the work useful.
 ```
