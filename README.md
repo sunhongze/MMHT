@@ -12,4 +12,13 @@ We present a comprehensive demonstration of our MMHT model to provide reviewers 
 ##  Visualization
 We present the tracking performance of three models (PrDiMP-SNN, PrDiMP-ResNet18, and MMHT) on four samples extracted from the FE108 and COESOT datasets. The colors of these bounding boxes remain consistent with those showcased in Figure 3 and Figure 4. The ground truth is indicated by the red box.
 
-
+## Citation
+Please cite our [paper](https://arxiv.org/abs/2405.17903) if you find the work useful.
+```
+@ARTICLE{
+  author={Hongze Sun and Rui Liu and Wuque Cai and Jun Wang and Yue Wang and Huajin Tang and Yan Cui and Dezhong Yao and Daqing Guo},
+  journal={Neural Networks}, 
+  title={Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion}, 
+  year={2024},
+  doi={2405.17903}}
+```
